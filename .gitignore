@@ -1,0 +1,6 @@
+*.o
+test_map
+.DS_Store
+.vscode
+a.out
+so_long
